@@ -20,5 +20,5 @@ public class LibraryBot extends TelegramLongPollingBot {
     @Override
     public void onUpdateReceived(Update update) {
 
-    }
+    } //hhj
 }
